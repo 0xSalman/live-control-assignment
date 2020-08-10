@@ -1,0 +1,6 @@
+div[data-component-id="lc-container"] {
+  max-width: 680px;
+  margin: auto;
+  padding: 100px;
+  background: #ddd;
+}
